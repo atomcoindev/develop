@@ -1,0 +1,9 @@
+Building Atomcoin
+
+See doc/readme-qt.rst for instructions on building Atomcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Atomcoin.
+
+See doc/build-*.txt for instructions on building atomcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Atomcoin.
